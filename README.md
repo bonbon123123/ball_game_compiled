@@ -1,19 +1,16 @@
 # ball_game_compiled
 
-Slelect album from panel on the left.
+Goal of the game is to last as long as you can.
 <image src="/images/ball_game_1.PNG">
 
-Play song by clicking on the arrow icon.
+Click on ball and hover over the place you want to move it.
 <image src="/images/ball_game_2.PNG">
 
-On admin page you can add your albums.
+After clicking the path will change color and after short moment new balls will be added.
 <image src="/images/ball_game_3.PNG">
 
-Simple Drag and Drop will do the job. 
+Strike the balls by matching 3 or more of the same collor in one line.
 <image src="/images/ball_game_4.PNG">
 
-All filles will be listed (if you drop file with cover art it will be used in the player).
-<image src="/images/ball_game_5.PNG">
-
-New albums are displayer with the old ones. If there weren't any pictures in the upload, standart cover will be given.
+When you run out of moves the game ends and shows you how well you did.
 <image src="/images/ball_game_6.PNG">
